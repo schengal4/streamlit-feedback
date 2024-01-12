@@ -4,7 +4,7 @@ import ThumbUpOffAltIcon from '@mui/icons-material/ThumbUpOffAlt';
 import Stack from '@mui/material/Stack';
 
 const colors = {
-    colorGrey: "#c7d1d3",
+    colorGrey: "#bbbbbb",
     colorUp: "#4caf50",
     colorDown: "#f44336"
 }
